@@ -1,0 +1,26 @@
+
+.table tr:nth-child(even) {
+    background-color: #6bb9f0;
+}
+
+.table tr:nth-child(odd) {
+    background-color: #dadfe1;
+}
+
+.table {
+    box-shadow: 5px 5px 9px #888;
+}
+
+.table-header {
+    font-weight: bold;
+    font-size: 110%;
+    text-transform: uppercase;
+}
+
+.cursive {
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+#add-person-form {
+    display: none;
+}
